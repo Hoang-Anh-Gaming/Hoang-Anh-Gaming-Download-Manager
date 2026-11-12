@@ -1,12 +1,12 @@
 name: Feature idea
-description: Something HAGGDM should do, or do differently.
+description: Something Hoang Anh Gaming Download Manager should do, or do differently.
 labels: [enhancement]
 body:
   - type: textarea
     id: idea
     attributes:
       label: What you'd like
-      description: What HAGGDM should do, in your own words.
+      description: What Hoang Anh Gaming Download Manager should do, in your own words.
     validations:
       required: true
   - type: textarea
@@ -20,7 +20,7 @@ body:
     id: os
     attributes:
       label: System
-      description: Where you use HAGGDM.
+      description: Where you use Hoang Anh Gaming Download Manager.
       multiple: true
       options:
         - Windows
