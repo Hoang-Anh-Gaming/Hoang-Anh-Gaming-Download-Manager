@@ -1,0 +1,10 @@
+# Blank issues stay on: the app's report page (dlmgr.hoanganhgaming.com/bao-loi.html) opens
+# issues/new?title=…&body=… with the report already filled in, which needs them.
+blank_issues_enabled: true
+contact_links:
+  - name: Security problem
+    url: https://dlmgr.hoanganhgaming.com/security.html
+    about: Report it privately, not as an issue.
+  - name: Help and questions
+    url: https://dlmgr.hoanganhgaming.com/huong-dan.html
+    about: The user guide, tutorials and troubleshooting; the FAQ is at dlmgr.hoanganhgaming.com/#hoi-dap.
